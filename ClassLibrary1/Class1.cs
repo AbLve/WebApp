@@ -11,6 +11,7 @@ namespace ClassLibrary1
         private void Test()
         {
             var name = 1;
+            var age = 111;
         }
     }
 }
