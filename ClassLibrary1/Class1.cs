@@ -8,5 +8,9 @@ namespace ClassLibrary1
 {
     public class Class1
     {
+        private void Test()
+        {
+            var name = 1;
+        }
     }
 }
